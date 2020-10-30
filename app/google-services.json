@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "574102398727",
+    "firebase_url": "https://videorecording-e653f.firebaseio.com",
+    "project_id": "videorecording-e653f",
+    "storage_bucket": "videorecording-e653f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574102398727:android:6b369c28ea810d1af0c7a2",
+        "android_client_info": {
+          "package_name": "org.techtown.videorecord"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574102398727-5427j99buea1nnj101ctbk867l0appq7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD36VUeubPqTFXXem3SzwfYk97WEVM20BQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574102398727-5427j99buea1nnj101ctbk867l0appq7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
